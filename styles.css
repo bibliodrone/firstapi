@@ -1,0 +1,40 @@
+.authorclass{
+color: green;
+}
+/* .oneresult{
+background-color: #BCFFDC;
+width: 500px;
+margin-top: 10px;
+font-family: "Helvetica Neue", Helvetica, Arial, Verdana, Sans Serif; */
+
+}
+.titleclass{
+color: blue;
+}
+
+H1 {
+    font-family: "Helvetica Neue," Helvetica, Arial, Verdana;
+    color: "#0D5BFF";
+}
+P {
+    font-family: "Helvetica Neue," Helvetica, Arial, Verdana;
+}
+#resultsdiv{
+    background-color: #F6F1FF;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #5EA6FF;
+}
+.oneresult{
+    font-family: "Helvetica Neue," Helvetica, Arial, Verdana;
+    font-size: 12px;
+    color: #1525FF;
+    background-color: #C0D6FF;
+    margin-left: 50px;
+}
+
+.notenglish{
+border-width: 5px;
+border-style: solid;
+border-color: red;
+}
